@@ -32,7 +32,7 @@ console.log("You already gave this number before. Try new number");
     console.log("Your guess is too low");
   } else {
 
-    console.log("You got it correct! Your attempts were " + pastNumbers.length+1);
+    console.log("You got it correct! Your attempts were " + pastNumbers.length);
 
   }
 
